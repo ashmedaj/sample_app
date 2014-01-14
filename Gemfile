@@ -20,6 +20,7 @@ group :test do
   gem 'selenium-webdriver', '2.35.1'
   gem 'capybara'
   gem 'sqlite3'
+  gem 'factory_girl_rails'
 end
 
 gem 'sass-rails', '4.0.1'
